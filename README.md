@@ -10,10 +10,12 @@ Perfect for Node.js databases!
 The framework of this scraping tool is built with [Puppeteer.js](). 
 
 ```
-npm install puppeteer
+npm install -g puppeteer
 ```
 
 ## Tool Setup
 
 
-## Developer Setup
+## Developer Setup (for a fresh repo)
+1. `npm init`
+1. `npm i puppeteer`
